@@ -25,4 +25,7 @@ My name is Denis, I've just finished JS/Frontend Pre-school course at [RS School
  
 
 
+ https://retterhalm.github.io/rsschool-cv/cv
+
+
 
