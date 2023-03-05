@@ -7,11 +7,11 @@
 
 Phone: +381611728103
 
-E-mail: kuzneysovd@hotmail.com
+E-mail: [kuznetsovd@hotmail.com](kuznetsovd@hotmail.com)
 
-github: https://github.com/Retterhalm
+github: [https://github.com/Retterhalm](https://github.com/Retterhalm)
 
-Linkedin: https://www.linkedin.com/in/denis-kuznetsov235/
+Linkedin: [https://www.linkedin.com/in/denis-kuznetsov235/](https://www.linkedin.com/in/denis-kuznetsov235/)
 
 *****
 
@@ -42,7 +42,7 @@ I grateful for all creators, mentors, activists and all of my colleagues-student
 
 - Java (Basic level)
 
-- C (Basic level
+- C (Basic level)
 
 - Git and Github
 
@@ -101,15 +101,15 @@ function add(num1, num2) {
 
 **SIMPLE BATTLE SIMULATOR**
 
-https://github.com/Retterhalm/Simple_Battle_Simulator
+[Code on the github](https://github.com/Retterhalm/Simple_Battle_Simulator)
 
 **PLANTS**
 
-https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/plants/
+[Code on the RS App](https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/plants/)
 
 **MOMENTUM**
 
-https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/momentum/
+[Code on the RS App](https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/momentum/)
 
 *****
 
@@ -123,7 +123,7 @@ https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/momentum/
 
 - My profile at [freecodecamp.org](https://www.freecodecamp.org/retterhalm)
 
-- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+- [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 *****
 
@@ -132,4 +132,4 @@ https://rolling-scopes-school.github.io/retterhalm-JSFEPRESCHOOL2022Q4/momentum/
 - English (C2) [EF Certificate](https://www.efset.org/cert/jwsXxK)
 - Polish (B1)
 - Serbian (A2 - B1)
-- Spanish (Basics)
+- Spanish (Basic level)
